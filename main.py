@@ -1,5 +1,5 @@
 lista_pergunta = ['Qual a capital da Espanha?', 'Qual o maior país do planeta?', 'Qual país fica tokyo?',
-                  'Qual país é famoso por produzir bons chocolates?', 'Em qual país se localiza o Rio amazonas?',
+                  'Qual país é famoso por chocolate?', 'Em qual país se localiza o Rio amazonas?',
                   'Qual a capital da Inglaterra?', 'País conhecidos pelas grandes pirâmides?', 'Qual país a capital é Roma?']
 lista_resposta = ['madrid', 'rússia', 'japão', 'suiça', 'brasil', 'londres', 'egito', 'itália']
 c = 0
